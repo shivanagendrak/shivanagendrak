@@ -65,7 +65,7 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/shivanagendrak/shivanagendrak/output/snake.svg" alt="Snake animation" />
+<img src="https://github.com/shivanagendrak/shivanagendrak/blob/master/snake.yml" alt="Snake animation" />
 
 ###
 
