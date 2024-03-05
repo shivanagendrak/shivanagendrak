@@ -1,4 +1,4 @@
-<h2 align="left">Hi Dev's! My name is Shiva Nagendra Babu and I'm a  Android Developer, from India.</h2>
+<h2 align="left">Hi Dev's! My name is Shiva Nagendra, from India.</h2>
 
 ###
 
